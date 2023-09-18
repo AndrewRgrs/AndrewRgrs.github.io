@@ -10,9 +10,13 @@
     - CGPA: 3.74/ 4.0
 
 ### Work Experience
-Graduate Research Assistant @ University of Toronto
-- Point 1!
-- Point 2!
+**Graduate Research Assistant | University of Toronto | May 2021 - August 2023**
+- Developed a novel exploration and mapping strategy for robotic swarms of 40+ mobile robots, leveraging stochastic area coverage motion strategies and fast, efficient frontier-based exploration strategies to explore quickly while allowing the strategy to remain scalable to a large number of robots.
+- Conducted simulations of the exploration and mapping strategy within a custom-built Python simulation environment, resulting in the successful [publication](https://www.mdpi.com/2218-6581/12/3/70) of the work in MDPI Robotics journal.
+
+**Research and Technology Engineering Intern | Safran Landing Systems Toronto | August 2019- August 2020**
+- Facilitated the implementation of automated optical inspection for the assembly of Boeing 747 nose landing gear, allowing assemblers to verify the correct assembly of key components on the landing gear themselves using a handheld phone camera, reducing inspection times by an order of magnitude.
+- Oversaw the maintenance and operation of the in-house polymer 3D printing lab. Designed and manufactured replacement parts for custom printers, resulting in minimal downtime of the printers and on-time delivery of every custom-ordered part.
 
 ### Projects
 - Project 1
