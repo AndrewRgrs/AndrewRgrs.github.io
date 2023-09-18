@@ -32,8 +32,8 @@ Section is a work in progress
 Section is a work in progress
 
 ### Publications
-1. **A. Rogers**, K. Eshaghi, G. Nejat, and B. Benhabib, “Occupancy Grid Mapping via Resource-Constrained Robotic Swarms: A Collaborative Exploration Strategy,” MDPI Robotics, vol. 12, no. 3, Art. no. 3, Jun. 2023, doi: 10.3390/robotics12030070.
-2. K. Eshaghi, **A. Rogers**, G. Nejat, and B. Benhabib, “Closed-Loop Motion Control of Robotic Swarms – A Tether-Based Strategy,” IEEE Transactions on Robotics, vol. 38, no. 6, pp. 3564–3581, Dec. 2022, doi: 10.1109/TRO.2022.3181055. 
+1. **A. Rogers**, K. Eshaghi, G. Nejat, and B. Benhabib, “Occupancy Grid Mapping via Resource-Constrained Robotic Swarms: A Collaborative Exploration Strategy,” MDPI Robotics, vol. 12, no. 3, Art. no. 3, Jun. 2023, [doi: 10.3390/robotics12030070](https://doi.org/10.3390/robotics12030070).
+2. K. Eshaghi, **A. Rogers**, G. Nejat, and B. Benhabib, “Closed-Loop Motion Control of Robotic Swarms – A Tether-Based Strategy,” IEEE Transactions on Robotics, vol. 38, no. 6, pp. 3564–3581, Dec. 2022, [doi: 10.1109/TRO.2022.3181055](https://doi.org/10.1109/TRO.2022.3181055). 
 
 
 #### Technical Skills: 
