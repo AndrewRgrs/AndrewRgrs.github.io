@@ -19,17 +19,22 @@
 - Oversaw the maintenance and operation of the in-house polymer 3D printing lab. Designed and manufactured replacement parts for custom printers, reducing downtime of the printers by 70% and on-time delivery of every custom-ordered part.
 
 ### Projects
-#### Exploration and Occupancy Grid Mapping using Robotic Swarm
-Section is a work in progress
 
 #### Multi-Robot Motion Planning Comparison
-Section is a work in progress
+Conducted a comprehensive assessment of dynamic motion planning algorithms, including implementing from scratch both dynamic sampling-based planners (DRRT*, RRTX) and reactive strategies (velocity obstacles) in Python. The effectiveness of these planners were validated  in a novel multi-robot use case wherein robots could not coordinate with each other and must constantly repair and replan their planned paths to ensure collision-free trajectories.
+[Link to project repository](https://github.com/AndrewRgrs/Dynamic-Planners-but-Multi-Robot)
 
-#### 3D State Estimation/Localization using Modified EKF
-Section is a work in progress
+![4 Robots navigating using DRRT*](assests/img/DRRT_Star.gif)
 
-#### Mobile Robot Simulation using ROS
-Section is a work in progress
+
+#### State Estimation/Localization of a Stereo Camera in 3D using batch Gauss-Newton Optimization method
+The goal of this project was to estimate the state $(x,y,z,\theta)$ of a vehicle equipped with a stereo camera and inertial measurement unit (IMU) traveling through a field of landmarks. The entire project was completed in MATLAB from a dataset of noisy measurements from the vehicle. 
+
+The batch Gauss-Newton method was implemented to fuse measurements from the IMU with point measurments from the stereo camera. Since the vehicle could freely translate and rotate through the three-dimensional space, the sets of transformation and rotation matricies used to represent the vehicles position over time were matrix Lie groups $SE(3)$ and $SO(3)$. 
+[Link to project repository](https://github.com/AndrewRgrs/stereo_camera_state_estimatation)
+
+![Estimated and Ground Truth Path](assests\img\Path.png)
+
 
 ### Publications
 1. **A. Rogers**, K. Eshaghi, G. Nejat, and B. Benhabib, “Occupancy Grid Mapping via Resource-Constrained Robotic Swarms: A Collaborative Exploration Strategy,” MDPI Robotics, vol. 12, no. 3, Art. no. 3, Jun. 2023, [doi: 10.3390/robotics12030070](https://doi.org/10.3390/robotics12030070).
