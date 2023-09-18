@@ -1,5 +1,5 @@
 title: Andrew Rogers
 logo: assests/img/headshot_circle.jpg
-description: "[View My LinkedIn Profile](https://www.linkedin.com/in/andrew~rogers/) "
+description: <a href="https://www.linkedin.com/in/andrew~rogers/">View My LinkedIn Profile</a> 
 show_downloads: false
 theme: jekyll-theme-minimal
