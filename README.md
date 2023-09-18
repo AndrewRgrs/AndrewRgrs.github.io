@@ -28,9 +28,9 @@ Conducted a comprehensive assessment of dynamic motion planning algorithms, incl
 
 
 #### State Estimation/Localization of a Stereo Camera in 3D using batch Gauss-Newton Optimization method
-The goal of this project was to estimate the state $(x,y,z,\theta)$ of a vehicle equipped with a stereo camera and inertial measurement unit (IMU) traveling through a field of landmarks. The entire project was completed in MATLAB from a dataset of noisy measurements from the vehicle. 
+The goal of this project was to estimate the state (x,y,z,theta) of a vehicle equipped with a stereo camera and inertial measurement unit (IMU) traveling through a field of landmarks. The entire project was completed in MATLAB from a dataset of noisy measurements from the vehicle. 
 
-The batch Gauss-Newton method was implemented to fuse measurements from the IMU with point measurments from the stereo camera. Since the vehicle could freely translate and rotate through the three-dimensional space, the sets of transformation and rotation matricies used to represent the vehicles position over time were matrix Lie groups $SE(3)$ and $SO(3)$. 
+The batch Gauss-Newton method was implemented to fuse measurements from the IMU with point measurments from the stereo camera. Since the vehicle could freely translate and rotate through the three-dimensional space, the sets of transformation and rotation matricies used to represent the vehicles position over time were matrix Lie groups SE(3) and SO(3). 
 [Link to project repository](https://github.com/AndrewRgrs/stereo_camera_state_estimatation)
 
 ![Estimated and Ground Truth Path](assests\img\Path.png)
