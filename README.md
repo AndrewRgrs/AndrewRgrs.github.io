@@ -15,12 +15,21 @@
 - Conducted simulations of the exploration and mapping strategy within a custom-built Python simulation environment, resulting in the successful [publication](https://www.mdpi.com/2218-6581/12/3/70) of the work in MDPI Robotics journal.
 
 **Research and Technology Engineering Intern | Safran Landing Systems Toronto | August 2019- August 2020**
-- Facilitated the implementation of automated optical inspection for the assembly of Boeing 747 nose landing gear, allowing assemblers to verify the correct assembly of key components on the landing gear themselves using a handheld phone camera, reducing inspection times by an order of magnitude.
-- Oversaw the maintenance and operation of the in-house polymer 3D printing lab. Designed and manufactured replacement parts for custom printers, resulting in minimal downtime of the printers and on-time delivery of every custom-ordered part.
+- Facilitated the implementation of automated optical inspection for the assembly of Boeing 747 nose landing gear, allowing assemblers to verify the correct assembly of key components on the landing gear themselves using a handheld phone camera, resulting in 10x faster inspection times.
+- Oversaw the maintenance and operation of the in-house polymer 3D printing lab. Designed and manufactured replacement parts for custom printers, reducing downtime of the printers by 70% and on-time delivery of every custom-ordered part.
 
 ### Projects
-- Project 1
-- Project 2
+#### Exploration and Occupancy Grid Mapping using Robotic Swarm
+Section is a work in progress
+
+#### Multi-Robot Motion Planning Comparison
+Section is a work in progress
+
+#### 3D State Estimation/Localization using Modified EKF
+Section is a work in progress
+
+#### Mobile Robot Simulation using ROS
+Section is a work in progress
 
 ### Publications
 1. **A. Rogers**, K. Eshaghi, G. Nejat, and B. Benhabib, “Occupancy Grid Mapping via Resource-Constrained Robotic Swarms: A Collaborative Exploration Strategy,” MDPI Robotics, vol. 12, no. 3, Art. no. 3, Jun. 2023, doi: 10.3390/robotics12030070.
