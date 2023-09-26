@@ -1,5 +1,5 @@
 # Robotics Engineer
-
+Passionate and dedicated Mechanical Engineer recently completed graduate school specializing in swarm robotics and collaborative multi-robot systems. Effective leader overseeing project success, mentoring, and training students. Excellent communicator with strong writing and presentation skills.
 ### Education
 - MASc Mechanical Engineering | University of Toronto | June 2021 - August 2023
     - Thesis: Occupancy Grid Mapping via Resource-Constrained Robotic Swarms: A Collaborative Exploration Strategy
@@ -11,12 +11,13 @@
 
 ### Work Experience
 **Graduate Research Assistant | University of Toronto | May 2021 - August 2023**
-- Developed a novel exploration and mapping strategy for robotic swarms of 40+ mobile robots, leveraging stochastic area coverage motion strategies and fast, efficient frontier-based exploration strategies to explore quickly while allowing the strategy to remain scalable to a large number of robots.
-- Conducted simulations of the exploration and mapping strategy within a custom-built Python simulation environment, resulting in the successful [publication](https://www.mdpi.com/2218-6581/12/3/70) of the work in MDPI Robotics journal.
+- Succesfully developed a novel exploration and mapping strategy for robotic swarms of 40+ mobile robots, leveraging stochastic area coverage motion strategies and fast, efficient frontier-based exploration strategies to explore quickly while allowing the strategy to remain scalable to a large number of robots.
+- Improved the overall environment sensing capabilities of a swarm through effective motion planning and demonstrated these results within a custom-built a swarm robotics simulation environment in Python, resulting in the successful [publication](https://www.mdpi.com/2218-6581/12/3/70) of the work in MDPI Robotics journal.
+- Built millimeter-scale robots (mROBerTO) and programmed them in embedded C to perform physical validation experiments of novel swarm algorithms.
 
 **Research and Technology Engineering Intern | Safran Landing Systems Toronto | August 2019- August 2020**
-- Facilitated the implementation of automated optical inspection for the assembly of Boeing 747 nose landing gear, allowing assemblers to verify the correct assembly of key components on the landing gear themselves using a handheld phone camera, resulting in 10x faster inspection times.
-- Oversaw the maintenance and operation of the in-house polymer 3D printing lab. Designed and manufactured replacement parts for custom printers, reducing downtime of the printers by 70% and on-time delivery of every custom-ordered part.
+- Facilitated the implementation of prototype computer-vision inspection for the assembly of Boeing 747 nose landing gear, allowing assemblers to verify the correct assembly of key components on the landing gear themselves using a handheld phone camera, resulting in 10x faster inspection times.
+- Oversaw the manufacturing and delivery of custom-ordered 3D printed parts as the head of the additive manufacturing lab for the R&T department. Implemented experimental hardware and software increasing each printer’s life and providing additional features such as multi-filament prints and a heated print bed with custom GUI interface.
 
 ### Projects
 
