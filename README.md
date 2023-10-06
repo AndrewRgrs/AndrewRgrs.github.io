@@ -16,8 +16,10 @@ Passionate and dedicated Mechanical Engineer recently completed graduate school 
 - Built millimeter-scale robots (mROBerTO) and programmed them in embedded C to perform physical validation experiments of novel swarm algorithms.
 
 **Research and Technology Engineering Intern | Safran Landing Systems Toronto | August 2019- August 2020**
-- Facilitated the implementation of prototype computer-vision inspection for the assembly of Boeing 747 nose landing gear, allowing assemblers to verify the correct assembly of key components on the landing gear themselves using a handheld phone camera, resulting in 10x faster inspection times.
-- Oversaw the manufacturing and delivery of custom-ordered 3D printed parts as the head of the additive manufacturing lab for the R&T department. Implemented experimental hardware and software increasing each printer’s life and providing additional features such as multi-filament prints and a heated print bed with custom GUI interface.
+- Led the development and design of a novel additively manufactured component for the piston assembly of an aircraft landing gear; including writing technical documentation and schematics to send to manufacturers.
+- Significantly improved and optimized the assembly inspection times for the Boeing 747 nose landing gear by implementing a prototype computer vision-based inspection system. 
+- Oversaw the manufacturing of custom-ordered 3D printed parts as the head of the plastic additive manufacturing lab for the R&T department. Implemented experimental hardware and software increasing each printer’s life and providing additional features such as multi-filament prints and a heated print bed with custom GUI interface.
+
 
 ### Projects
 
